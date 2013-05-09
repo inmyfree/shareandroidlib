@@ -122,7 +122,7 @@ System
 
 声明
 ---
-原创文章，转载请注明出处 慕容博客  http://ww.mk5i.com ，thx
+原创文章，转载请注明出处 慕容博客  http://www.mk5i.com ，thx
 
 
 
